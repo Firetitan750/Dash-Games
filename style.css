@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+.border {
+    border: solid;
+    border-color: white;
+    padding: 10px;
+}
+h1 {
+    color:white;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+h2 {
+    color:white;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+p {
+    color:white;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+#gamebutton {
+    background-color: black;
+    color: white;
+    border: solid white;
+}
